@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "version": "0.1",
+    "version": "0.2",
     "name": "Interplanetary UI",
     "theme": {
       "images" : {},
@@ -11,7 +11,7 @@
         "bookmark_text" : [179, 201, 211],
         "button_background" : [0, 10, 12],
         "frame" : [0, 10, 12],
-        "frame_inactive" : [0, 26, 31],
+        "frame_inactive" : [0, 10, 12],
         "ntp_background" : [0, 10, 12],
         "ntp_header" : [255, 0, 27],
         "ntp_text" : [179, 201, 211],
