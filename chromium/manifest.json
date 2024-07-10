@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "version": "0.1",
+    "name": "Interplanetary UI",
+    "theme": {
+      "images" : {},
+      "colors" : {
+        "ntp_section" : [179, 201, 211],
+        "background_tab" : [0, 10, 12],
+        "background_tab_inactive" : [0, 10, 12],
+        "bookmark_text" : [179, 201, 211],
+        "button_background" : [0, 10, 12],
+        "frame" : [0, 10, 12],
+        "frame_inactive" : [0, 26, 31],
+        "ntp_background" : [0, 10, 12],
+        "ntp_header" : [255, 0, 27],
+        "ntp_text" : [179, 201, 211],
+        "ntp_link" : [239, 163, 25],
+        "omnibox_background" : [0, 26, 31],
+        "omnibox_text" : [179, 201, 211],
+        "tab_background_text" : [179, 201, 211],
+        "tab_background_text_inactive" : [179, 201, 211],
+        "toolbar" : [0, 10, 12],
+        "tab_text": [239, 163, 25],
+        "toolbar_button_icon": [179, 201, 211],
+        "toolbar_text": [239, 163, 25]
+      }
+    }
+  }

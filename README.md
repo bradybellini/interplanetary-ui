@@ -1,2 +1,2 @@
-# interplanetary-ui
+# Interplanetary UI
  UI for your interplanetary needs!
